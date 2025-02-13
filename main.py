@@ -1,3 +1,4 @@
+
 print("X degerini giriniz")
 x = input()
 print("Y degerini giriniz")
